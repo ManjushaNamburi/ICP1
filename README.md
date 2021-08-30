@@ -1,2 +1,2 @@
 # ICP1
-For ICP1 assignment
+Created repository for first assignment in Programming for Web, Mobile and Cloud App.
