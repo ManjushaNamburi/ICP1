@@ -1,0 +1,100 @@
+/* main header background and search engine links */
+
+.content {
+    background-image: url(https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_677,q_85,w_1280/v1/clients/raleigh/105721513_2836234529838121_1191785457980744333_o_a001753f-a2b9-4593-9531-a89f329d32fb.jpg);
+    background-position:50%
+}
+
+#heading {
+    font-size:80px;
+    font-family: "Times New Roman";
+    padding-top: 100px;
+    color : Pink;
+    text-align: center;
+    font-weight: bold;
+}
+
+#sub_title {
+    font-size:30px;
+    font-family: monospace;
+    padding-bottom: 100px;
+    color : deepskyblue;
+    text-align: center;
+    font-weight: normal;
+}
+
+.media {
+    text-align: end;
+    padding:20px 10px 10px 10px;
+}
+#youtube {
+    padding: 10px 10px 10px 10px;
+}
+
+#title {
+
+    font-size:50px;
+    font-family: "Times New Roman";
+    padding-bottom: 1px;
+    color : saddlebrown;
+    text-align: match-parent;
+    font-weight: normal;
+}
+
+#ice_cream_image {
+    padding: 1px;
+    align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.body_content {
+    font-size:25px;
+    font-family: "Times New Roman";
+    padding-bottom: 1px;
+    color : black;
+    text-align: match-parent;
+    font-weight: normal;
+}
+
+.edit {
+    color: hotpink;
+}
+.edit1 {
+    color: blueviolet;
+}
+
+.edit2 {
+    color: blueviolet;
+}
+.edit3 {
+    color: blueviolet;
+}
+.edit4 {
+    color: blueviolet;
+}
+.edit5 {
+    color: blueviolet;
+}
+.edit6 {
+    color: blueviolet;
+}
+.edit7 {
+    color: blueviolet;
+}
+.edit8 {
+    color: blueviolet;
+}
+.edit9 {
+    color: blueviolet;
+}
+.edit10 {
+    color: blueviolet;
+}
+
+.video_alignment {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    preload : "metadata"}
